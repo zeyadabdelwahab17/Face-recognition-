@@ -1,0 +1,11 @@
+face-recognition==1.3.0
+numpy==1.24.4
+opencv-python==4.8.1.78
+gTTS==2.4.0
+pygame==2.5.2
+python-dotenv==1.0.0
+pickle5==0.0.12; python_version < '3.8'
+
+# Optional/System dependencies (comment if not needed)
+# libopenblas-dev  # Required for face-recognition on some systems
+# python3-dev  
